@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+ 	 <meta charset="utf-8">
+ 	 <title>Ifeanyichukwu Okoliocha</title>
+ 	 <link rel="stylesheet" href="styles.css">
+   <link rel="icon" href="favicon.ico">
+   <link href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Sacramento"  rel="stylesheet">
+  </head>
+  <body>  
+  <div class="top-container">
+     <img class="top-cloud" src="cloud.png" alt="cloud-img">
+     <h1>I'm Ifeanyi.</h1>
+     <p>a <span class="pro">pro</span>grammer.</p>
+     <img class="bottom-cloud" src="cloud.png" alt="cloud-img">
+     <img src="mountain.png" alt="mountain-img">	
+  </div>
+  <div class="middle-container">
+  <div class="profile">
+    <img src="" alt="">
+    <h2>Hello.</h2>
+    <p>I am a Web Developer.I'm a Media Personnel.I love Gaming.</p>
+  </div>
+  <hr>
+  <div class="skills">
+    <h2>My Skills.</h2>
+    <div class="skill-row">
+      <img class="" src="" alt="">
+      <h3>Design & Development</h3>
+      <p>I started learning to code when I was 15 years old because I love the mystery behind websites.Over time, I have gained knowledge of designing and development of web application and sites</p>
+    </div>
+    <div class="skill-row">
+      <img class="" src="buttons.png" alt="buttons-img">
+      <h3>Gaming</h3>
+      <p>But my best skill is actually gaming.I'm a fantastic gamer.Efootball and C.O.D. (Call.Of.Duty) are my best games</p>
+    </div>
+  </div>
+  <hr>
+  <div class="contact-me">
+    <h2>Get In Touch</h2>
+    <h3>If you love gaming as much as i do.</h3>
+    <p>Love gaming as much as i do?Let's talk about how awesome gaming is!We can code while we talk about our best games.</p>
+    <a class="btn" href="mailto:Okoliochadavid@gmail.com">CONTACT ME</a>
+  </div>
+</div>
+
+
+<div class="bottom-container">
+  <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+  <a class="footer-link" href="https://twitter.com/">Twitter</a>
+  <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+  <p>© 2018 Ifeanyichukwu Okoliocha.</p>
+</div>
+
+ 	
+ 
+  </body>
+ 
+</html><!DOCTYPE html>
+<html>
+  <head>
+ 	 <meta charset="utf-8">
+ 	 <title>Ifeanyichukwu Okoliocha</title>
+ 	 <link rel="stylesheet" href="styles.css">
+   <link rel="icon" href="favicon.ico">
+   <link href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Sacramento"  rel="stylesheet">
+  </head>
+  <body>  
+  <div class="top-container">
+     <img class="top-cloud" src="cloud.png" alt="cloud-img">
+     <h1>I'm Ifeanyi.</h1>
+     <p>a <span class="pro">pro</span>grammer.</p>
+     <img class="bottom-cloud" src="cloud.png" alt="cloud-img">
+     <img src="mountain.png" alt="mountain-img">	
+  </div>
+  <div class="middle-container">
+  	
+  </div>
+  <div class="bottom-container">
+  	
+  </div>
+ 	
+ 
+  </body>
+ 
+</html>
